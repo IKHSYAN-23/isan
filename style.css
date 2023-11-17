@@ -13,12 +13,7 @@ scroll-behavior: smooth;
     background-color: rgb(255, 167, 2);
     padding: rem rem;
 }
-@media screen and (max-width: 500px) {
-    .header-container {
-        padding: 1rem 2rem;
-        background-color: orange;
-    }
-}
+ 
 
 body {
     margin: 0;
